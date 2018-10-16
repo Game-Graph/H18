@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: javax.servlet-api-3.1.0.jar sdk-0.1.0.jar jetty-client-9.4
+ .8.v20171121.jar slf4j-api-1.7.13.jar jetty-http-9.4.8.v20171121.jar 
+ spark-core-2.7.2.jar jetty-io-9.4.8.v20171121.jar jetty-security-9.4.
+ 8.v20171121.jar websocket-api-9.4.8.v20171121.jar jetty-server-9.4.8.
+ v20171121.jar websocket-client-9.4.8.v20171121.jar jetty-servlet-9.4.
+ 8.v20171121.jar websocket-common-9.4.8.v20171121.jar jetty-util-9.4.8
+ .v20171121.jar websocket-server-9.4.8.v20171121.jar jetty-webapp-9.4.
+ 8.v20171121.jar websocket-servlet-9.4.8.v20171121.jar jetty-xml-9.4.8
+ .v20171121.jar
+Main-Class: MainApp
+
