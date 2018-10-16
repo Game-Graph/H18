@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RecordWallet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
-	<public_key>302a300506032b65700321001decfdcbc4651a77a9457b7dc0958b294e647ce66b8bfc530540a0bcdb01b08c</public_key>
-	<private_key>302e020100300506032b657004220420cdd406bcbee54128039b283632135170b3f388cde4b9b0a66aa93f8b5adc9e33</private_key>
-
-</RecordWallet>
